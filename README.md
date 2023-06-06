@@ -19,4 +19,4 @@ Here are the branches for each project in the series:
 🔴 - MERN
 🔴 - Others
 
-[Follow us to start building ](https://www.youtube.com/c/inovotek-academy)
+
